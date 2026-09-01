@@ -11,3 +11,4 @@ Este repositorio centraliza todas las prácticas, investigaciones y proyectos de
 | Luis Millán | 30.040.213 | Luen101 |
 | Endrys Flores | 30.451.556 | endrys21 |
 | Jesus Baez | 26.753.871 | JesusBaezR |
+| Robert Castro | 30.994.049 | RobertCastro-glich |
