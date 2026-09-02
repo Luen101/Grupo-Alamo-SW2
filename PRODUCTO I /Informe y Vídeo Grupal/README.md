@@ -8,6 +8,10 @@ Aqui se almacena el informe y vídeo elaborado por el Grupo Alamo correspondient
 
 https://www.youtube.com/watch?v=O5l5r2TFdU4
 
+<a href="[https://www.youtube.com/watch?v=O5l5r2TFdU4(https://youtu.be/O5l5r2TFdU4)">
+  <img src="https://img.youtube.com/vi/O5l5r2TFdU4/maxresdefault.jpg" alt="Tema 1 Miniatura" width="300">
+</a>
+
 ## 👨‍💻 Integrantes del Grupo Alamo
 
 | Nombre y Apellido | CI | GitHub ID |
