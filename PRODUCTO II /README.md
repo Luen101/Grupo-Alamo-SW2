@@ -6,6 +6,15 @@ La entrega del **Producto 2** para la materia de **Ingeniería de Software II** 
 
 En este apartado se discuten los artefactos de visión, la planificación estratégica, la elección del ciclo de vida y las estructuras de desglose para un proyecto de software único que ha sido creado para un ciclo mínimo de desarrollo de 16 semanas.
 
+### 🎬 Link del Video:
+
+https://www.youtube.com/watch?v=O5l5r2TFdU4
+
+<a href="[https://www.youtube.com/watch?v=E2MJAMIoqmE(https://youtu.be/E2MJAMIoqmE)">
+  <img src="https://img.youtube.com/vi/E2MJAMIoqmE/maxresdefault.jpg" alt="Tema 1 Miniatura" width="300">
+</a>
+
+
 ### 👨‍💻 Integrantes del Grupo Alamo
 
 | Nombre y Apellido | CI | GitHub ID |
