@@ -1,4 +1,4 @@
-## PRODUCTO III: Estimación en Entornos Complejos
+## 📚 PRODUCTO III: Estimación en Entornos Complejos
 
 ### 📌 Descripción General
 
@@ -14,3 +14,21 @@ Este directorio contiene las entregas correspondientes a la **Evaluación Produc
   Estructura de Desglose del Trabajo (EDT/WBS), Diagrama de Red PERT/CPM, Diagrama de Gantt y cálculo de fecha oficial de culminación para el proyecto MediConnect.
 * **Ejercicio 4:** *(Bonus Optativo)*  
   Lectura crítica desde la perspectiva de liderazgo para el inicio de nuevos proyectos de software basándose en métricas de historial.
+
+### 🎬 Link del Video:
+
+https://www.youtube.com/watch?v=O5l5r2TFdU4
+
+<a href="[https://www.youtube.com/watch?v=PhKY7uzS7ac(https://youtu.be/PhKY7uzS7ac)">
+  <img src="https://img.youtube.com/vi/PhKY7uzS7ac/maxresdefault.jpg" alt="Tema 1 Miniatura" width="300">
+</a>
+
+
+### 👨‍💻 Integrantes del Grupo Alamo
+
+| Nombre y Apellido | CI | GitHub ID |
+| ------------- | ------------- | ------------- |
+| Luis Millán | 30.040.213 | Luen101 |
+| Endrys Flores | 30.451.556 | endrys21 |
+| Jesus Baez | 26.753.871 | JesusBaezR |
+| Robert Castro | 30.994.049 | RobertCastro-glich |
