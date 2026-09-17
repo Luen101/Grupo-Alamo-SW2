@@ -9,6 +9,15 @@ La carpeta `PRODUCTO IV` incluye los siguientes artefactos:
 
 * **`Informe_Producto_IV.pdf`**: Documento escrito con la resolución detallada de las tres preguntas planteadas en la evaluación (Risk Storming, Registro de Riesgos híbrido y Análisis comparativo de metodologías de identificación).
 
+### 🎬 Link del Video:
+
+https://www.youtube.com/watch?v=JTtTQoO10s8
+
+<a href="[https://www.youtube.com/watch?v=JTtTQoO10s8(https://youtu.be/JTtTQoO10s8)">
+  <img src="https://img.youtube.com/vi/JTtTQoO10s8/maxresdefault.jpg" alt="Tema 1 Miniatura" width="300">
+</a>
+
+
 ### 👨‍💻  Integrantes del Grupo Alamo
 
 | Nombre y Apellido | CI | GitHub ID |
