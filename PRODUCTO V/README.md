@@ -1,4 +1,4 @@
-## Producto V - Integración Continua, Entrega Continua y Despliegue (CI/CD)
+## 📚 Producto V - Integración Continua, Entrega Continua y Despliegue (CI/CD)
 
 Este directorio contiene la documentación formal y los entregables correspondientes al Producto V de la asignatura **Ingeniería del Software II**, elaborado por el Grupo Álamo.
 
