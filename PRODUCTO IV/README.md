@@ -1,4 +1,4 @@
-## Unidad IV: Gestión de Riesgos y Deuda Técnica
+## 📚 Unidad IV: Gestión de Riesgos y Deuda Técnica
 
 ### 📌 Descripción General
 Este repositorio contiene la resolución del **Producto IV**, correspondiente a la Unidad IV sobre *Gestión de Riesgos y Deuda Técnica*. En esta unidad se abordan los conceptos fundamentales del análisis cualitativo y cuantitativo de riesgos, las amenazas modernas en software (ciberseguridad, Cloud, dependencias de terceros e IA), la gobernanza del riesgo en entornos distribuidos y la gestión de la deuda técnica como un riesgo de negocio.
