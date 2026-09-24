@@ -4,7 +4,7 @@ Este directorio contiene la documentación formal y los entregables correspondie
 
 ### 📄 Contenido del Directorio
 
-* **`Informe_Producto_IV.pdf`**: Documento principal con la descripción técnica, arquitecturas, flujos Gitflow, pipelines de CI/CD, configuración de Docker, pruebas automatizadas y despliegue del sistema.
+* **`Informe_Producto_V.pdf`**: Documento principal con la descripción técnica, arquitecturas, flujos Gitflow, pipelines de CI/CD, configuración de Docker, pruebas automatizadas y despliegue del sistema.
 
 ### 🎬 Link del Video:
 
