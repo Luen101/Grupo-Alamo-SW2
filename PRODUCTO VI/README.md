@@ -1,5 +1,5 @@
 ## 📚 Producto VI - Liderazgo, Equipos y Cultura de Ingeniería
-
+### 📌 Descripción General
 Este directorio contiene la documentación formal, el informe académico y los recursos audiovisuales correspondientes al Producto VI de la asignatura Ingeniería del Software II, desarrollado por el Grupo Álamo.
 
 ### 📄 Contenido del Directorio
