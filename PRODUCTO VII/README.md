@@ -10,6 +10,12 @@ Este directorio contiene las entregas correspondientes al **Producto VII** de la
 
 ### 🎬 Link del Video:
 
+https://www.youtube.com/watch?v=E1UPAM5jL0o
+
+<a href="[https://www.youtube.com/watch?v=E1UPAM5jL0o(https://youtu.be/watch?v=E1UPAM5jL0o)">
+  <img src="https://img.youtube.com/vi/E1UPAM5jL0o/maxresdefault.jpg" alt="Tema 1 Miniatura" width="300">
+</a>
+
 ### 👨‍💻  Integrantes del Grupo Alamo
 
 | Nombre y Apellido | CI | GitHub ID |
