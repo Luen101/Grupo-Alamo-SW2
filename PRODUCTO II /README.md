@@ -8,7 +8,7 @@ En este apartado se discuten los artefactos de visión, la planificación estrat
 
 ### 🎬 Link del Video:
 
-https://www.youtube.com/watch?v=O5l5r2TFdU4
+https://www.youtube.com/watch?v=E2MJAMIoqmE
 
 <a href="[https://www.youtube.com/watch?v=E2MJAMIoqmE(https://youtu.be/E2MJAMIoqmE)">
   <img src="https://img.youtube.com/vi/E2MJAMIoqmE/maxresdefault.jpg" alt="Tema 1 Miniatura" width="300">
